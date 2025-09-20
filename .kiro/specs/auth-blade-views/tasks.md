@@ -50,9 +50,11 @@
   - [ ] 3.2 Implement DashboardController
     - Create DashboardController with index method
 
+
     - Display basic user information from authenticated session
     - Add navigation options and logout functionality
     - _Requirements: 4.1, 4.2_
+
 
 - [ ] 4. Create reusable Blade components
   - [ ] 4.1 Create form input components
