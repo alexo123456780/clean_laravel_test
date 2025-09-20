@@ -63,13 +63,16 @@
     - Add error.blade.php component for displaying validation errors
     - _Requirements: 5.4, 6.3, 6.4_
 
-  - [ ] 4.2 Create layout components
+  - [x] 4.2 Create layout components
+
     - Implement header.blade.php component with navigation and user menu
     - Create footer.blade.php component with basic links
     - Add flash-messages.blade.php partial for success/error messages
     - _Requirements: 5.4, 6.4_
 
-- [ ] 5. Create main layout templates
+- [x] 5. Create main layout templates
+
+
   - [ ] 5.1 Implement guest layout
     - Create guest.blade.php layout for login and registration pages
     - Include Tailwind CSS integration and responsive meta tags

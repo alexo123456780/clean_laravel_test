@@ -21,6 +21,8 @@
 /storage/pail
 /vendor
 /.kiro
+/.kiro/specs
+/.kiro/specs/auth-blade-views
 Homestead.json
 Homestead.yaml
 Thumbs.db
